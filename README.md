@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![Part_1](https://user-images.githubusercontent.com/115508658/218278901-e62e084d-e1e4-4672-9dda-c2e5280a5f01.png)
+![Part_1](https://user-images.githubusercontent.com/115508658/218279842-c7921e2a-294c-4ad7-8c32-36900ad9374e.png)
 
 ## Summary Statistics on Suspension Coils
 
