@@ -32,3 +32,5 @@
 
 - Interpretation and Findings
   - ANSWER
+
+## Study Design: MechaCar vs Competition
