@@ -7,9 +7,9 @@
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   - Vehicle_length (with a Pr(>|t|) value of 2.60e-12) and ground_clearance (with a Pr(>|t|) value of 5.21e-08) provide a non-random amount of variance.
 - Is the slope of the linear model considered to be zero? Why or why not?
-  - The p-value is 5.35e-11, which is less than the significance level of .05. This means that the slope of the linear model is not zero.
+  - The p-value is 5.35e-11, which is less than the significance level of 0.05. This means that the slope of the linear model is not zero.
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-  - ANSWER
+  - The R-squared value is 0.7149 which means that 71.49% of the time, the model will predict mpg correctly. This model is an effective predictor, but there are most likely factors missing from the dataset that contribute to mpg.
 
 ## Summary Statistics on Suspension Coils
 
