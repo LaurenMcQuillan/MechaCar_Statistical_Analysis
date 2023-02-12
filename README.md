@@ -24,13 +24,22 @@
 
 ![Part_3_all](https://user-images.githubusercontent.com/115508658/218279368-14ffa8d4-44c2-4ef5-ab87-edd0299c704a.png)
 
+- One sample T-Test on all manufacturing lots
+  - With a p-value of 0.06028, this is greater than the significance level of 0.05 and we cannot reject the null hypothesis. The two means are statistically similar.
+
 ![Part_3_lot1](https://user-images.githubusercontent.com/115508658/218279370-7ad3ed2b-f7b5-4af9-8d54-d78e501ec24f.png)
 
+- One sample T-Test on Lot 1
+  - With a p-value of 1, this is greater than the significance level of 0.05 and we cannot reject the null hypothesis. The two means are statistically similar.
+  
 ![Part_3_lot2](https://user-images.githubusercontent.com/115508658/218279374-9f84fb93-a0db-4f31-ab9d-ac6ef4acea3a.png)
+
+- One sample T-Test on Lot 2
+  - With a p-value of 0.6072, this is greater than the significance level of 0.05 and we cannot reject the null hypothesis. The two means are statistically similar.
 
 ![Part_3_lot3](https://user-images.githubusercontent.com/115508658/218279377-b3bc86a8-c151-43c7-a3f0-7dd05c74da92.png)
 
-- Interpretation and Findings
-  - ANSWER
+- One sample T-Test on Lot 3
+  - With a p-value of 0.04168, this is less than the significance level of 0.05 and we can reject the null hypothesis. The two means are not statistically similar.
 
 ## Study Design: MechaCar vs Competition
