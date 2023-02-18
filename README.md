@@ -42,4 +42,3 @@
 - One sample T-Test on Lot 3
   - With a p-value of 0.04168, this is less than the significance level of 0.05 and we can reject the null hypothesis. The two means are not statistically similar.
 
-## Study Design: MechaCar vs Competition
